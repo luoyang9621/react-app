@@ -1,0 +1,19 @@
+.fl {
+    float: left!important;
+}
+.fr {
+    float: right!important;
+}
+.clearfix:after, .clearfix:before {
+    content: " ";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both
+}
+.pointer {
+    cursor: pointer!important;
+}
+.w120 {
+    width: 120px!important;
+}
