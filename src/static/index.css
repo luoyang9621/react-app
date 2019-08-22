@@ -1,0 +1,14 @@
+.board-ul {
+}
+li {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li button {
+    flex: 1;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
