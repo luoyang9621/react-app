@@ -6,7 +6,9 @@
     "antd": "^3.6.6",
     "axios": "^0.18.0",
     "babel-plugin-import": "^1.8.0",
+    "lib-flexible": "^0.3.2",
     "node-sass": "^4.9.2",
+    "postcss-px2rem": "^0.3.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router": "^4.4.0-alpha.1",
@@ -22,6 +24,8 @@
   },
   "proxy": "http://sz.meituan.com",
   "devDependencies": {
-    "react-app-rewired": "^1.5.2"
+    "postcss-loader": "^3.0.0",
+    "react-app-rewired": "^1.5.2",
+    "styled-components": "^4.3.2"
   }
 }
